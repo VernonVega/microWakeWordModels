@@ -3,7 +3,7 @@
   "wake_word": "jain",
   "author": "jack_da_shadow",
   "website": "https://github.com/VernonVega",
-  "model": "https://github.com/VernonVega/microWakeWordModels/raw/refs/heads/main/jain_micro2.tflite",
+  "model": "https://raw.githubusercontent.com/VernonVega/microWakeWordModels/refs/heads/main/jain_micro2.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
@@ -14,6 +14,7 @@
     "minimum_esphome_version": "2024.7.0"
   }
 }
+
 
 
 
